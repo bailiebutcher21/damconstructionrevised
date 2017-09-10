@@ -1,0 +1,14 @@
+.container{
+    background-color: black;
+}
+.navigationbar{
+    background-color: white;
+    margin-top: 15px;
+    text-align: center;
+
+}
+.centercontainer{
+    background-color: white;
+    background-position: center;
+
+}
