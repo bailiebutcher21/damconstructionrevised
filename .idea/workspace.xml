@@ -2,27 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71b0cf56-1261-4473-9194-880e4067fbe3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Dam Construction Logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/stock-photo-new-residential-construction-home-framing-against-a-blue-sky-construction-site-preparation-474926512.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/stock-photo-orange-excavator-in-dirt-gro-830180.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/stock-photo-shovel-excavator-on-asian-re-1242449.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/stock-photo-yellow-excavator-on-sandy-hi-1894177.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/About us.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/About us.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Contactus.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Damconstructionrevised.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aboutus.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testimonial.css" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Cat1.png" afterPath="$PROJECT_DIR$/img/Cat1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Cat2.png" afterPath="$PROJECT_DIR$/img/Cat2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Cat3.png" afterPath="$PROJECT_DIR$/img/Cat3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Cat4.png" afterPath="$PROJECT_DIR$/img/Cat4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Finished Projects.html" afterPath="$PROJECT_DIR$/HTML/Finished Projects.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Testimonials.html" afterPath="$PROJECT_DIR$/HTML/Testimonials.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/contact us.html" afterPath="$PROJECT_DIR$/HTML/contact us.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/equipmentphoto.png" afterPath="$PROJECT_DIR$/img/equipmentphoto.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -40,8 +19,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+            <state relative-caret-position="374">
+              <caret line="94" column="10" lean-forward="false" selection-start-line="94" selection-start-column="10" selection-end-line="94" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -117,11 +106,11 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/About us.html" />
         <option value="$PROJECT_DIR$/index.css" />
-        <option value="$PROJECT_DIR$/HTML/index.html" />
         <option value="$PROJECT_DIR$/HTML/Testimonials.html" />
         <option value="$PROJECT_DIR$/HTML/contact us.html" />
         <option value="$PROJECT_DIR$/HTML/Finished Projects.html" />
         <option value="$PROJECT_DIR$/HTML/About us.html" />
+        <option value="$PROJECT_DIR$/HTML/index.html" />
       </list>
     </option>
   </component>
@@ -243,7 +232,9 @@
       <workItem from="1508206722561" duration="1408000" />
       <workItem from="1508246821805" duration="259000" />
       <workItem from="1508376604523" duration="45000" />
-      <workItem from="1510679386097" duration="33000" />
+      <workItem from="1510679386097" duration="428000" />
+      <workItem from="1510709961157" duration="61000" />
+      <workItem from="1510872498513" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="Added Contact info. Added background image">
       <created>1505058538269</created>
@@ -280,20 +271,43 @@
       <option name="project" value="LOCAL" />
       <updated>1505138138971</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Final Commit.">
+      <created>1510679432683</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1510679432683</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Final Commit.">
+      <created>1510679691896</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1510679691896</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28791000" />
+    <option name="totallyTimeSpent" value="29248000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="33" width="1281" height="772" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1968254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293944" sideWeight="0.4904762" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293944" sideWeight="0.5095238" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293944" sideWeight="0.4968254" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -304,7 +318,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -337,7 +350,8 @@
     <MESSAGE value="Added Nav bar. Added Testimonials" />
     <MESSAGE value="Added Nav bar." />
     <MESSAGE value="Created index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created index.html" />
+    <MESSAGE value="Final Commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Commit." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -404,13 +418,6 @@
     <entry file="file://$PROJECT_DIR$/Contactus.css" />
     <entry file="file://$PROJECT_DIR$/Dam Construction Revised.html" />
     <entry file="file://$PROJECT_DIR$/Damconstructionrevised.css" />
-    <entry file="file://$PROJECT_DIR$/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/equipmentphoto.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -438,14 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Finished Projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="58" lean-forward="false" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/About us.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -457,10 +456,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Finished Projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="58" lean-forward="false" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        <state relative-caret-position="374">
+          <caret line="94" column="10" lean-forward="false" selection-start-line="94" selection-start-column="10" selection-end-line="94" selection-end-column="10" />
           <folding />
         </state>
       </provider>
